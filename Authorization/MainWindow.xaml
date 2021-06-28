@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:Authorization"
         mc:Ignorable="d"
-        Title="Авторизация" Height="450" Width="800">
+        Title="Авторизация" Height="438.495" Width="307.646" WindowStartupLocation="CenterScreen">
     <Grid>
         
     </Grid>
