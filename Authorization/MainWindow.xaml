@@ -12,5 +12,6 @@
         <Label Content="    Пройдите авторизацию &#xD;&#xA;введя свои логин и пароль!" Canvas.Left="562" Canvas.Top="53" Margin="20,32,0,0" FontSize="18" FontWeight="Bold" Height="72" VerticalAlignment="Top" HorizontalAlignment="Left" Width="262"/>
         <Label Content="Логин:" Canvas.Left="562" Canvas.Top="53" Margin="77,123,0,0" FontSize="18" Height="34" VerticalAlignment="Top" HorizontalAlignment="Left" Width="69"/>
         <Label Content="Пароль:" Canvas.Left="562" Canvas.Top="53" Margin="77,204,0,0" FontSize="18" Height="34" VerticalAlignment="Top" HorizontalAlignment="Left" Width="80"/>
+        <Button IsDefault = "True" Content="Войти" Height="41" Width="141" Canvas.Left="584" Canvas.Top="242"  Click="Auth_Enter" Margin="77,298,0,0" VerticalAlignment="Top" HorizontalAlignment="Left"/>
     </Grid>
 </Window>
