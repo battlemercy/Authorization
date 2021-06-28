@@ -7,6 +7,7 @@
         mc:Ignorable="d"
         Title="Авторизация" Height="438.495" Width="307.646" WindowStartupLocation="CenterScreen">
     <Grid>
-        
+        <TextBox Name="Auth_Login" TextWrapping="Wrap"  Width="141" Canvas.Left="617" Canvas.Top="53" Margin="77,146,0,0" HorizontalAlignment="Left" Height="31" VerticalAlignment="Top"/>
+        <PasswordBox Name="Auth_Password" HorizontalAlignment="Left" Margin="77,226,0,0" VerticalAlignment="Top" Width="141"/>
     </Grid>
 </Window>
